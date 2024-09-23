@@ -1,0 +1,49 @@
+body{
+    /*background-color: red;*/
+}
+
+div.partie{
+    border: 3px solid black;
+    border-radius: 0px 0px 20px 0px;
+    margin: 20px 50px;
+
+}
+
+div.partie h1{
+    background: linear-gradient(to right, #9933ff 0%, #cc66ff 64%);
+    margin-top: 0px;
+    padding: 5px;
+}
+
+#spetial{
+    background-color: #d9b3ff;
+}
+
+p{
+    padding: 5px;
+}
+
+div.partie dl{
+    margin-left: 20px;
+}
+
+div.partie dt{
+    font-weight: bold;
+    color: #0033cc;
+}
+img.icone{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40px;;
+
+}
+#identite {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 170px;
+    border-radius:500px;
+
+
+}
